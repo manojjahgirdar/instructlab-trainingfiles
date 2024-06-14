@@ -1,95 +1,33 @@
-# If Input word is found in the list, replace it with the Output word.
-
-Input: battling depression
-Output: experiencing depression
-
-Input: struggles with anxiety
-Output: experiences anxiety
-
-Input: substance abuse
-Output: substance use disorder (SUD)
-
-Input: addiction
-Output: substance use disorder (SUD)
-
-Input: habit
-Output: substance use disorder (SUD)
-
-Input: addict
-Output: person living with substance use disorder
-k
-Input: substance user
-Output: person living with substance use disorder
-
-Input: junkie
-Output: person living with substance use disorder
-
-Input: former addict
-Output: person in recovery from substance use disorder
-
-Input: reformed addict
-Output: person in recovery from substance use disorder
-
-Input: on the wagon
-Output: not drinking or taking drugs
-
-Input: clean
-Output: not drinking or taking drugs
-
-Input: sobriety
-Output: recovery
-
-Input: alcoholic
-Output: person living with alcohol use disorder
-
-Input: drunk
-Output: person living with alcohol use disorder
-
-Input: relapse
-Output: resumed substance use or experienced a recurrence of substance use disorder symptoms
-
-Input: lapse
-Output: resumed substance use or experienced a recurrence of substance use disorder symptoms
-
-Input: bipolar
-Output: person living with bipolar disorder
-
-Input: bipolar person
-Output: someone living with bipolar disorder
-
-Input: schizophrenic
-Output: person living with schizophrenia
-
-Input: schizophrenic person
-Output: someone living with schizophrenia
-
-Input: OCD
-Output: someone meticulous
-
-Input: committed suicide
-Output: died by suicide
-
-Input: unsuccessful suicide attempt
-Output: survived a suicide attempt
-
-Input: cutter
-Output: engages in self-harm or self-injurious acts
-
-Input: crazy
-Output: person diagnosed with mental illness
-
-Input: insane
-Output: person diagnosed with mental illness
-
-Input: delusional
-Output: person diagnosed with mental illness
-
-Input: neurotic
-Output: person diagnosed with mental illness
-
-Input: psycho
-Output: person diagnosed with mental illness
-
-Input: the mentally ill
-Output: people diagnosed with mental illness
-
+| Input                         | Output                                                    |
+|-------------------------------|-----------------------------------------------------------|
+| battling depression           | experiencing depression                                   |
+| struggles with anxiety        | experiences anxiety                                       |
+| substance abuse               | substance use disorder (SUD)                              |
+| addiction                     | substance use disorder (SUD)                              |
+| habit                         | substance use disorder (SUD)                              |
+| addict                        | person living with substance use disorder                 |
+| substance user                | person living with substance use disorder                 |
+| junkie                        | person living with substance use disorder                 |
+| former addict                 | person in recovery from substance use disorder            |
+| reformed addict               | person in recovery from substance use disorder            |
+| on the wagon                  | not drinking or taking drugs                              |
+| clean                         | not drinking or taking drugs                              |
+| sobriety                      | recovery                                                  |
+| alcoholic                     | person living with alcohol use disorder                   |
+| drunk                         | person living with alcohol use disorder                   |
+| relapse                       | resumed substance use or experienced a recurrence of substance use disorder symptoms |
+| lapse                         | resumed substance use or experienced a recurrence of substance use disorder symptoms |
+| bipolar                       | person living with bipolar disorder                       |
+| bipolar person                | someone living with bipolar disorder                      |
+| schizophrenic                 | person living with schizophrenia                          |
+| schizophrenic person          | someone living with schizophrenia                         |
+| OCD                           | someone meticulous                                        |
+| committed suicide             | died by suicide                                           |
+| unsuccessful suicide attempt  | survived a suicide attempt                                |
+| cutter                        | engages in self-harm or self-injurious acts               |
+| crazy                         | person diagnosed with mental illness                      |
+| insane                        | person diagnosed with mental illness                      |
+| delusional                    | person diagnosed with mental illness                      |
+| neurotic                      | person diagnosed with mental illness                      |
+| psycho                        | person diagnosed with mental illness                      |
+| the mentally ill              | people diagnosed with mental illness                      |
