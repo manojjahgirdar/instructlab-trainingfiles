@@ -1,0 +1,13 @@
+{"Input": "social determinants of health", "Output": "drivers of health"}
+{"Input": "equality", "Output": "equity"}
+{"Input": "food insecurity", "Output": "food security"}
+{"Input": "housing insecurity", "Output": "healthy housing"}
+{"Input": "poor families", "Output": "families living on low income"}
+{"Input": "poor communities", "Output": "underserved communities"}
+{"Input": "underprivileged communities", "Output": "underserved communities"}
+{"Input": "vulnerable communities", "Output": "underserved communities"}
+{"Input": "sketchy communities", "Output": "underserved communities"}
+{"Input": "needy communities", "Output": "underserved communities"}
+{"Input": "poor people", "Output": "people whose incomes are below the federal poverty threshold"}
+{"Input": "the homeless", "Output": "individuals who are experiencing homelessness"}
+{"Input": "welfare mothers", "Output": "individuals who receive TANF (Temporary Assistance for Needy Families)"}

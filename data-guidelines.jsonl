@@ -1,0 +1,44 @@
+{"Input": "1 year old", "Output": "infant"}
+{"Input": "2 years old", "Output": "infant"}
+{"Input": "3 years old", "Output": "infant"}
+{"Input": "15 years old", "Output": "adolescent"}
+{"Input": "18 years old", "Output": "adult"}
+{"Input": "65 years old", "Output": "aged person"}
+{"Input": "12 years old", "Output": "child"}
+{"Input": "5 year old", "Output": "child"}
+{"Input": "6 year old", "Output": "child"}
+{"Input": "7 year old", "Output": "child"}
+{"Input": "8 year old", "Output": "child"}
+{"Input": "9 year old", "Output": "child"}
+{"Input": "10 year old", "Output": "child"}
+{"Input": "11 year old", "Output": "child"}
+{"Input": "13 year old", "Output": "adolescent"}
+{"Input": "14 year old", "Output": "adolescent"}
+{"Input": "15 year old", "Output": "adolescent"}
+{"Input": "16 year old", "Output": "adolescent"}
+{"Input": "17 year old", "Output": "adolescent"}
+{"Input": "18 year old", "Output": "adult"}
+{"Input": "60 year old", "Output": "aged person"}
+{"Input": "afflicted with", "Output": "experiencing"}
+{"Input": "epileptics", "Output": "people with epilepsy"}
+{"Input": "handicapped", "Output": "people with different abilities"}
+{"Input": "disabled", "Output": "people with disabilities"}
+{"Input": "birth defect", "Output": "person with a congenital disability"}
+{"Input": "amputee", "Output": "someone with an amputation"}
+{"Input": "paraplegic", "Output": "person with paraplegia"}
+{"Input": "quadriplegic", "Output": "person with quadriplegia"}
+{"Input": "epileptic fit", "Output": "seizure"}
+{"Input": "brain damaged", "Output": "person with a brain injury"}
+{"Input": "diabetic", "Output": "person with diabetes"}
+{"Input": "harelip", "Output": "person who has a cleft palate"}
+{"Input": "spastic", "Output": "someone with spastic cerebral palsy"}
+{"Input": "midget", "Output": "someone with short stature"}
+{"Input": "dwarf", "Output": "someone with dwarfism"}
+{"Input": "senility", "Output": "dementia"}
+{"Input": "special needs", "Output": "needs accommodations"}
+{"Input": "complete loss of sight", "Output": "blind"}
+{"Input": "caretaker", "Output": "caregiver"}
+{"Input": "someone confined to a wheelchair", "Output": "someone who uses a wheelchair"}
+{"Input": "able bodied", "Output": "does not have a disability"}
+{"Input": "mental retardation", "Output": "different learning abilities"}
+{"Input": "suffering from Down syndrome", "Output": "person with Down syndrome"}

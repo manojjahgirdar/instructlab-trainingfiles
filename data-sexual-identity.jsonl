@@ -1,0 +1,9 @@
+{"Input": "gay community", "Output": "LGBTQ+ community"}
+{"Input": "sexual preference", "Output": "sexual identity"}
+{"Input": "same-sex marriage", "Output": "marriage"}
+{"Input": "gay marriage", "Output": "marriage"}
+{"Input": "marriage for same-sex couples", "Output": "marriage"}
+{"Input": "mother", "Output": "parent"}
+{"Input": "father", "Output": "parent"}
+{"Input": "wife", "Output": "spouse"}
+{"Input": "husband", "Output": "spouse"}
