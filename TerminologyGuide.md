@@ -1,5 +1,7 @@
 # Terminology Guide
 
+Act as a writer. Your task is to review this content to improve the readability. Refer to the list of input, output words given below. If Input word is found in the list, replace it with the Output word.
+
 ## Mental Health Terminology Guide
 
 | Input                         | Output                                                    |
