@@ -1,0 +1,35 @@
+Input: Indian
+Output: Alaska Native
+
+Input: Native American
+Output: Eastern Band of Cherokee Indians
+
+Input: Native People
+Output: American Indian and Alaska Native
+
+Input: Tribal Peoples
+Output: American Indian and Alaska Native
+
+Input: Tribal Communities
+Output: American Indian and Alaska Native
+
+Input: Asian and Pacific Islander
+Output: Asian and Pacific Islander Americans
+
+Input: Black
+Output: Black communities
+
+Input: African American
+Output: Black people
+
+Input: Latino
+Output: Hispanic
+
+Input: Latina
+Output: Hispanic
+
+Input: Latinx
+Output: Hispanic
+
+Input: People of Color
+Output: Communities of color
