@@ -1,3 +1,5 @@
+# If Input word is found in the list, replace it with the Output word.
+
 Input: battling depression
 Output: experiencing depression
 
